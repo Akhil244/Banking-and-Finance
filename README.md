@@ -11,7 +11,7 @@ This is a **[Next.js](https://nextjs.org/)** project bootstrapped using [`create
 This diagram outlines the architectural design of the project including core directories, components, and API routes.
 
 **Highlights:**
-- Modular structure with `app/`, `components/`, and `api/`
+- Modular structure with `app/`, `components/`
 - Page-based routing
 - Centralized layout configuration
 - Reusable and scalable component design
